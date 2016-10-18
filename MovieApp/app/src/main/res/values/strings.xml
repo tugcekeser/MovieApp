@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Zoo</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="action_settings">Settings</string>
+</resources>
